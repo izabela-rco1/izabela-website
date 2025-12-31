@@ -1,0 +1,92 @@
+---
+title: "Projects"
+---
+
+<small> *Undergraduate students involved during the project's execution.</small>
+
+<br>
+
+::: {.project-card}
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![](img/proj_CD.png){.project-img}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### Ciência de Dados e o pioneirismo feminino: uma trilha formativa com abordagem STEAM
+
+(Data Science and Female Pioneering: A STEAM-Based Learning Path)
+
+[Ongoing]{.badge .badge-ongoing}
+
+**Funding:** FAPEMIG (Call 013/2024)  
+**Timeline:** August 2025 - August 2028  
+**Team:** Izabela R. Cardoso de Oliveira (Coordinator), Sidney de Almeida Ferreira, Juliana Andrade Santiago, Gabriel Garcêz Bertolin, Luíza Helena Pereira Lúcio* e Maria Rita Oliveira Nogueira*
+
+This project focuses on developing a Data Science learning path for secondary school students. Inspired by the legacy of Florence Nightingale, the initiative follows the integrated STEAM (Science, Technology, Engineering, Arts, and Mathematics) approach. The project involves collaborations with the Department of Medicine and two public schools.
+
+<!--
+O projeto envolve o desenvolvimento de uma trilha de formação em Ciência de Dados voltada a alunos do ensino médio. A proposta é inspirada no legado de Florence Nightingale e é desenvolvida usando a abordagem integradora STEAM (Science, Technology, Engineering, Arts and Mathematics). No projeto há colaboradores do Departamento de Medicina e de duas escolas da rede pública de ensino.  
+-->
+
+:::
+:::
+:::
+
+---
+
+::: {.project-card}
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![](https://via.placeholder.com/800x600/50C878/ffffff?text=ConectaStat){.card-img-top}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### ConectaStat: Ciência, Estatística e Conexão
+
+(ConectaStat: Science, Statistics, and Connection)
+
+[Ongoing]{.badge .badge-ongoing}
+
+**Timeline:** April 2025 - April 2027  
+**Team:** Izabela R. Cardoso de Oliveira (Coordinator), Luiz Otávio de Oliveira Pala, Luiz Ricardo Nakamura, João Domingos Scalon, Tales Jesus Fernandes, Camilla Marques Barroso, Pedro Mambelli Fernandes*
+
+ConectaStat is a science communication project focused on the field of Statistics. The platform showcases academic and outreach initiatives, promotes statistical literacy, and bridges the gap between the university and society through accessible content. Our goal is to make Statistics more understandable and relevant to diverse audiences, encouraging the application of statistical thinking in daily life and decision-making.
+
+<!--
+O ConectaStat é um projeto de popularização da ciência, voltado para a área de estatística. A plataforma divulga projetos acadêmicos e de extensão, promove o letramento estatístico e conecta a universidade com a sociedade por meio de conteúdos acessíveis. Seu objetivo é tornar a Estatística mais compreensível e relevante para diferentes públicos.
+-->
+
+:::
+:::
+:::
+
+---
+
+::: {.project-card}
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![](img/proj_dash.png){.project-img}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### O mercado de produtos para nutrição animal: modelagem e predição de preços
+
+(The Animal Nutrition Market: Price Modeling and Prediction)
+
+[Completed]{.badge .badge-completed}
+
+**Funding:** FAPEMIG (Call 017/2022)  
+**Partner Company:** JPA Agro e Serviços LTDA  
+**Timeline:** August 2023 - November 2025  
+**Team:** Izabela R. Cardoso de Oliveira (Coordinator), Thelma Sáfadi, Sérgio Domingos Simão, João Paulo Assis Bonifácio* e Heitor Rodrigues Sabino*
+
+This research project is conducted in partnership with the private sector and is funded through a postdoctoral fellowship. The focus is on statistical modeling and price prediction for key inputs in the animal nutrition market, with the implementation of solutions via interactive dashboards to support corporate decision-making.
+
+<!--
+Projeto de pesquisa realizado em parceria com a iniciativa privada com o Funding de uma bolsa de pós-doutorado. O foco é na modelagem estatística e predição de preços de insumos-chave no mercado de nutrição animal, com implementação de soluções através de painéis interativos (dashboards) para apoio à tomada de decisão empresarial.
+-->
+
+:::
+:::
+:::

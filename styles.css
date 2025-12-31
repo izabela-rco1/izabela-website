@@ -1,0 +1,362 @@
+/* ============================================
+   ACADEMICONS CDN (garantir que carregue)
+   ============================================ */
+
+@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
+
+
+/* ============================================
+   COLOR PALETTE - Accessible & Professional
+   ============================================ */
+
+:root {
+  /* Escolha UMA das opções abaixo */
+  
+  /* OPÇÃO 1: Azul Escuro Profissional 
+  --primary-color: #1e3a8a;
+  --accent-color: #2563eb;
+  */
+  
+  /* OU OPÇÃO 2: Azul Petróleo
+  --primary-color: #0f4c75;
+  --accent-color: #3282b8;
+  */
+  
+  /* OU OPÇÃO 3: Laranja Coral
+  --primary-color: #c2410c;
+  --accent-color: #ea580c;
+  */
+  
+  /* OU OPÇÃO 4: Azul + Laranja */
+  --primary-color: #1e3a8a;
+  --accent-color: #ea580c;
+  
+}
+
+/* ============================================
+   TÍTULOS E HEADINGS
+   ============================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+}
+
+/* Títulos principais (h1) com mais destaque */
+h1 {
+  color: var(--primary-color);
+  font-weight: 700;
+  border-bottom: 3px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
+
+/* Subtítulos (h2) */
+h2 {
+  color: var(--primary-color);
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+/* ============================================
+   LINKS
+   ============================================ */
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* ============================================
+   NAVBAR (Barra superior cinza clara)
+   ============================================ */
+
+.navbar {
+  background-color: #f8f9fa !important;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.navbar-brand {
+  color: var(--primary-color) !important;
+  font-weight: 700;
+}
+
+.nav-link {
+  color: #495057 !important;
+  font-weight: 500;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--primary-color) !important;
+}
+
+/* ============================================
+   BOTÕES E BADGES
+   ============================================ */
+
+.btn-primary {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+/* Ajusta badges para usar cores do tema */
+.badge-ongoing {
+  background-color: var(--accent-color);
+}
+
+.badge-completed {
+  background-color: #059669; /* Verde mantém separado */
+}
+
+/* ============================================
+   FOOTER STYLING
+   ============================================ */
+
+/* Social icons no centro do rodapé */
+.footer-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.footer-social a {
+  color: #6c757d;
+  font-size: 1.5rem;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-social a:hover {
+  color: var(--accent-color, #2563eb);
+  transform: translateY(-3px);
+  text-decoration: none;
+}
+
+/* Botão de contato no rodapé */
+.btn-footer {
+  background-color: var(--accent-color, #2563eb);
+  color: white !important;
+  border: none;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn-footer:hover {
+  background-color: var(--primary-color, #1e3a8a);
+  color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-decoration: none;
+}
+
+.btn-footer i {
+  font-size: 1.1rem;
+}
+
+/* Ajustes do rodapé para melhor layout */
+.page-footer {
+  padding: 2rem 0;
+  margin-top: 3rem;
+  border-top: 1px solid #e9ecef;
+}
+
+/* Responsivo: mobile */
+@media (max-width: 768px) {
+  .footer-social {
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-social a {
+    font-size: 1.3rem;
+  }
+  
+  .btn-footer {
+    width: 100%;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+}
+
+.btn-footer-outline {
+  background-color: transparent;
+  color: var(--accent-color, #2563eb) !important;
+  border: 2px solid var(--accent-color, #2563eb);
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn-footer-outline:hover {
+  background-color: var(--accent-color, #2563eb);
+  color: white !important;
+  transform: translateY(-2px);
+}
+
+/* ============================================
+   PROJECT CARDS (ajuste sutil)
+   ============================================ */
+
+.project-card:hover {
+  border-color: var(--accent-color);
+}
+
+.project-card h3 {
+  color: var(--primary-color);
+}
+
+
+
+
+
+
+
+
+/* Project cards styling */
+.project-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.project-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.project-card strong {
+  color: #34495e;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .project-img {
+    height: 180px;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Status badges */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1;
+  border-radius: 12px;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.badge-ongoing {
+  background-color: #3498db;
+  color: white;
+}
+
+.badge-completed {
+  background-color: #2ecc71;
+  color: white;
+}
+
+.badge-upcoming {
+  background-color: #f39c12;
+  color: white;
+}
+
+.badge-closed {
+  background-color: #95a5a6;
+  color: white;
+}
+
+
+/* ============================================
+   TEACHING PAGE STYLING
+   ============================================ */
+
+/* Compact course cards */
+.course-card-compact {
+  background: #ffffff;
+  border-left: 4px solid var(--accent-color, #ea580c);
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.course-card-compact:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transform: translateX(2px);
+  border-left-width: 6px;
+}
+
+.course-card-compact h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--primary-color, #1e3a8a);
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.course-card-compact strong {
+  color: #6c757d;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.course-card-compact p {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+  color: #495057;
+}
+
+/* Separator between sections */
+.course-card-compact + hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 2px solid #e9ecef;
+}

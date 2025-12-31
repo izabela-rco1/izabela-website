@@ -1,0 +1,79 @@
+---
+title: "Teaching"
+---
+
+Below are the courses I have taught at UFLA in the last years.
+
+---
+
+## Undergraduate Courses
+
+::: {.course-card-compact}
+### GES139 • Organização e apresentação de dados
+**2024/01, 2024/02, 2025/01, 2026/01** 
+
+The goal of this course is to provide students with the necessary tools to explore, visualize, and analyze data to better understand phenomena and investigate patterns. Key topics include data cleaning and wrangling, visualization, Exploratory Data Analysis (EDA), and effective methods for communication and reproducibility. The course combines theoretical and practical sessions with hands-on projects, focusing on the use of open-source tools.
+
+**Target Audience:** First-semester undergraduate students in Statistics at UFLA
+
+**Materials:** Coming soon
+<!--
+[{{< fa link >}} Course website](https://url.com) • [{{< fa github >}} GitHub](https://github.com/user/repo) • [{{< fa file-pdf >}} Syllabus](syllabus.pdf)
+-->
+:::
+
+::: {.course-card-compact}
+### GES119 • Modelos Lineares I
+**2025/02** 
+
+The objective of this course is to introduce the theory of linear models, focusing on full-rank models. It covers simple and multiple regression models, grounded in matrix algebra theory.
+
+Target Audience: Fourth-semester undergraduate students in Statistics at UFLA.
+
+**Materials:** Coming soon
+:::
+
+::: {.course-card-compact}
+### GES101 • Estatística
+**2025/01, 2025/02, 2026/01** 
+
+The goal of this course is to introduce Statistical Science, covering the core concepts of descriptive statistics, probability, and statistical inference.
+
+**Target Audience:** Students from different undergraduate programs at UFLA.
+
+**Materials:** Coming soon
+:::
+
+::: {.course-card-compact}
+### GES107 • Estatística aplicada
+**2025/01** 
+
+The objective of this course is to introduce Statistical Science, covering descriptive statistics and the fundamentals of statistical inference. The course focuses on presenting statistical methods and their practical applications across various fields.
+
+**Target Audience:** Students from different undergraduate programs at UFLA.
+
+:::
+
+::: {.course-card-compact}
+### GES106 • Introdução à Estatística
+**2024/02** • Graduação
+
+The goal of this course is to provide a foundational overview of Statistics, covering basic descriptive and inferential methods.
+
+**Target Audience:** Students from different undergraduate programs at UFLA.
+
+:::
+
+---
+
+## Graduate Courses
+
+::: {.course-card-compact}
+### PEX 801 • Recursos computacionais aplicados à Estatística e Experimentação Agropecuária
+**2024/01** 
+
+The objective of this course is to provide an introduction to open-source computing resources, with a focus on exploratory data analysis (EDA). It covers the fundamental characteristics of key programming languages and essential packages for data manipulation and visualization.
+
+**Target Audience:** Incoming Master's students in the Graduate Program in Statistics and Agricultural Experimentation at UFLA.
+
+:::

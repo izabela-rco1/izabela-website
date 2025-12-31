@@ -1,0 +1,50 @@
+---
+title: "Izabela Regina Cardoso de Oliveira"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/izabela-oliveira-8a424855/
+        - icon: github
+          text: Github
+          url: https://github.com/izabela-rco1
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:izabela.oliveira@ufla.br
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=sUPZKeoAAAAJ&hl=pt-BR
+        - text: "{{< ai orcid >}} ORCID 0000-0003-3254-2827"
+          url: https://orcid.org/0000-0003-3254-2827
+        - text: "{{< ai lattes >}} Lattes"
+          url: http://lattes.cnpq.br/3989787989553183
+image: img/izabela.png
+comments: false
+---
+
+## Professor at Universidade Federal de Lavras (Lavras, Brazil)
+
+
+I am a Statistics educator and consultant. I have been a professor at [Universidade Federal de Lavras (UFLA)](www.ufla.br) since 2015, teaching at both undergraduate and graduate levels. Currently, I am a member of the Statistics Undergraduate Board and a collaborator in the [Graduate Program in Statistics and Agricultural Experimentation](https://sigaa.ufla.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1702).
+
+My passion lies in teaching statistics with a computational focus, prioritizing the use of open-source tools and student-centered methods. My research is dedicated to applying statistical methods to solve real-world problems, and my scientific production is largely the result of interdisciplinary collaborations across various fields of knowledge.
+
+Beyond the university, I work to increase female representation in STEM as a founding member of the [R-Ladies](https://www.instagram.com/rladieslavras/) and [PyLadies](https://www.instagram.com/pyladieslavras/) chapters in Lavras. I also coordinate outreach projects that connect the university with the corporate sector and bring Data Science education to secondary school students.
+
+To learn more about my background and publications, you can view my CV on the [Lattes Platform](http://lattes.cnpq.br/3989787989553183) (available in both Portuguese and English)
+
+---
+
+## Location
+
+::: {.column-page}
+<div style="text-align: center; margin-top: 1rem;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.0023052387305!2d-44.997360088907364!3d-21.23175718038744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9ffd8856811737%3A0xec418e234ccb83af!2sUniversidade%20Federal%20de%20Lavras!5e0!3m2!1spt-BR!2sbr!4v1766260464427!5m2!1spt-BR!2sbr" 
+        width="350" 
+        height="220" 
+        style="border:0; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</div>
+:::

@@ -1,6 +1,6 @@
 # Quarto
 /.quarto/
-/_site/
+#/_site/
 
 # R
 .Rproj.user
